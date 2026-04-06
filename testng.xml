@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="My Test Suite">
-    <test name="Functional Test1">
+<suite name="MyTestSuite">
+    <test name="FunctionalTest1">
       <classes>
          <class name="com.example.pipelinedemo.AppTest"/>            
       </classes>
